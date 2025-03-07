@@ -25,7 +25,7 @@ export default function About({innerRef}) {
             </p>
             <p><span style={{color: info.baseColor}}>skills/tools <span
                 className={Style.green}>(main)</span> $</span> ls</p>
-            <p style={{color: info.baseColor}}> elementary With</p>
+            <p style={{color: info.baseColor}}> Elementary With</p>
             <ul className={Style.skills}>
                 {info.skills.elementaryWith.map((proficiency, index) => <li key={index}>{proficiency}</li>)}
             </ul>

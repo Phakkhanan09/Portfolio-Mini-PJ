@@ -1,5 +1,5 @@
 import sinxia from "../img/sinxia.png"
-import mock1 from "../img/mock1.png"
+import PJ1 from "../img/PJ1.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
@@ -68,7 +68,7 @@ export const info = {
             label: 'instagram'
         },
         {
-            link:"",
+            link:"https://github.com/Phakkhanan09/Portfolio-Mini-PJ",
             icon: 'fa fa-github',
             label: 'github'
         }
@@ -100,10 +100,10 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
+            title: " Portfolio Mini PJ ",
+            live: "https://Phakkhanan09.github.io/Portfolio-Mini-PJ", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/Phakkhanan09/Portfolio-Mini-PJ.git", // this should be a link to the **repository** of the project, where the code is hosted.
+            image: PJ1
         },
         {
             title: "Project 2",
