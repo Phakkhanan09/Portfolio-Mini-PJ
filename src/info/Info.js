@@ -1,6 +1,6 @@
 import sinxia from "../img/sinxia.png"
 import PJ1 from "../img/PJ1.png"
-import mock2 from "../img/mock2.png"
+import PJ2 from "../img/PJ2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
@@ -8,7 +8,7 @@ import mock5 from "../img/mock5.png"
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
 
-export let colors = ["rgb(255, 0, 170)", "rgb(166,104,255)" ,"rgb(255, 210, 104)"];
+export let colors = ["rgb(255, 0, 144)", "rgb(166,104,255)" ,"rgb(255, 210, 104)"];
 /*
 I highly recommend using a gradient generator like https://gradientgenerator.paytonpierce.dev/ to generate a pair of colors that you like.
 These colors will be used to style your name on the homepage, the background of your picture, and some other accents throughout
@@ -106,10 +106,10 @@ export const info = {
             image: PJ1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock2
+            title: "Wil You Be My Valentine",
+            live: " https://phakkhanan09.github.io/Will-you-be-my-valentine/",
+            source: "https://github.com/Phakkhanan09/Will-you-be-my-valentine.git",
+            image: PJ2
         },
         {
             title: "Project 3",
