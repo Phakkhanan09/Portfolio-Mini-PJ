@@ -1,7 +1,7 @@
 import sinxia from "../img/sinxia.png"
 import PJ1 from "../img/PJ1.png"
 import PJ2 from "../img/PJ2.png"
-import mock3 from "../img/mock3.png"
+import PJ3 from "../img/PJ3.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
 
@@ -112,10 +112,10 @@ export const info = {
             image: PJ2
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock3
+            title: "Recipe",
+            live: "https://phakkhanan09.github.io/recipe-sharing/",
+            source: "https://github.com/Phakkhanan09/recipe-sharing.git",
+            image: PJ3
         },
         {
             title: "Project 4",
